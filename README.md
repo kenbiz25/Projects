@@ -5,7 +5,7 @@ Welcome to my projects Repo. This is dedicated to storing and documenting some o
 ## Problem Statement
 ## Skills Demonstrated
 
-- Table creation and upload of data SQL
+- Importing Datasets to SQL
 - sql queries mastery
 - Data management
 
