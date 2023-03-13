@@ -6,6 +6,8 @@ Welcome to my projects Repo. This is dedicated to storing and documenting some o
 ## Skills Demonstrated
 
 - Table creation and upload of data SQL
+- sql queries mastery
+- Data management
 
 ![Upload Success](https://github.com/kenbiz25/Projects/blob/1622653ab0c7e1b1550a10dadcc8c0b7f5b63f81/Coronavirus(Covid-19)-Analysis/Snip%202.jpg)
 
