@@ -1,21 +1,31 @@
-# Projects
-## Description
+## Introduction
+
 Welcome to my projects Repo. This is dedicated to storing and documenting some of the queries I have been able to create and use successfully in my day to day tasks. Please feel free to advice, contribute and comment on best practice about the code. You can also explore on how to adopt it for your daily challenges as well.
 
-## Data Issues and Solutions & Use Cases
+## Problem Statement
+## Skills Demonstrated
 
-These are some of the areas I have been able to apply and use SQL, Python, Power BI, Tableau and Excel Code and queries respectively
--
--
--
--
+## Data Sources
 
-## Project Summaries
+*Data Source - https://ourworldindata.org/covid-deaths*
 
-###Project 1 - Breakdown of Data. Combined with
-### SQL - Code and Notes for Project 1
+## Data Transformation
 
-This was my first use case of SQL QUERIES. 
+ Dataiku, SQL, Python Code and queries respectively
 
-### Project 2 - Data Analysis - Covid 19 Deaths
+## Modelling
 
+These are some of the tools I have been able to apply and use
+1. Dataiku
+2. SQL
+3. Excel
+
+## Analysis and Visualization
+
+These are some of the tools I have been able to apply and use
+1. Power BI
+2. Tableau and Excel
+
+## Conclusion and Recomendation
+
+I pride in learning and I look forward to sharing these skills to derive insights and spur growth in the business environment
