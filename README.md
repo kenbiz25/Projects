@@ -6,6 +6,7 @@ Welcome to my projects Repo. This is dedicated to storing and documenting some o
 ## Skills Demonstrated
 
 - Importing Datasets to SQL
+- Data Exploration
 - sql queries mastery
 - Data management
 
