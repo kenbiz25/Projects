@@ -2,7 +2,7 @@
 
 ## Introduction
 ## Problem Statement
-##S kills Demonstrated
+## Skills Demonstrated
 
 ## Data Sourcing
 
